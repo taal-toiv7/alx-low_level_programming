@@ -1,0 +1,3 @@
+memory allocation 
+malloc
+free
