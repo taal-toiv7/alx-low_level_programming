@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 /**
-* array-range - creates an array of intergers
+* array_range - creates an array of intergers
 * @min: first interger number
 * @max: last interger number
 *
 * Return: pointer to newly allocatedd memory or NULL if fails
 */
-int *array_range(int min, int max);
+int *array_range(int min, int max)
 {
 	int i, l;
 	int *a;
