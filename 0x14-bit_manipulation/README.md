@@ -1,1 +1,3 @@
+CHANGE BINARY TO UNIT
+AND UNITS TO BINARY
 bit manipulation 
