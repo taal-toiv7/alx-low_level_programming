@@ -2,7 +2,7 @@
 
 /**
  * unsigned int- to become binary_to_unit
-* binary_to_uint -converts a binary number to usigned int
+* binary_to_uint -converts a binary number to unsigned int
 * @b: string with binary number
 * binary_to_uint - is unsigned
 * Return: the converted number
